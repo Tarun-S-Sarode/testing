@@ -13,12 +13,12 @@ email: tarun.sarode@outlook.com
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  TarunSSarode
+github_username:  Tarun-S-Sarode
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-#linkedin_username: jekyll
+linkedin_username: www.linkedin.com/in/tarun-s-sarode
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -26,25 +26,34 @@ github_username:  TarunSSarode
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
+#  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
+A Data Analyst 
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
-    - Tables
-    - Links
-    - Images
-
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
+#    - Tables
+#    - Links
+#    - Images
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
 
-# Awards Section
-# awards_title: Awards #(Use this to override about education section title)
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Certification Section
+# certification_title: Certification 
+
+# Projects Section
+# projects_title: Projects 
+
+# Volunteering Section
+# awards_title: Awards 
+
+# Reach Me
+# reach-me_title: Reach Me 
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
