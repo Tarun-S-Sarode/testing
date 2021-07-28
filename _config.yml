@@ -8,7 +8,7 @@ title: Your job title
 email: Your email (optional)
 phone: Your phone number (optional)
 cv   : "resume.pdf"
-#website: Your website (eg. https://google.com)(optional)
+website: Your website (eg. https://google.com)(optional)
 
 # Social links
 #twitter_username: jekyllrb
