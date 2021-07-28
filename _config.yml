@@ -35,6 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Tables
     - Links
     - Images
+    - Images ![alt text](/images/landscape-trees.jpg "Trees")
     
 # Education Section
 # education_title: Education #(Use this to override about education section title)
