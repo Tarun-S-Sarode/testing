@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Tables
     - Links
     - Images
-    - ![logo.png](/images/logo.png)
+    - ![ ](/images/logo.png)
     
 # Education Section
 # education_title: Education #(Use this to override about education section title)
