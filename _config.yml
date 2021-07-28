@@ -7,9 +7,9 @@ repository:  Tarun-S-Sarode/testing
 name: Tarun.S.Sarode
 title: Data Analyst
 email: tarun.sarode@outlook.com
-phone: Your phone number (optional)
-cv   : "resume.pdf"
-website: Your website (eg. https://google.com)(optional)
+# phone: Your phone number (optional)
+# cv   : "resume.pdf"
+# website: Your website (eg. https://google.com)(optional)
 
 
 # Social links
@@ -19,7 +19,7 @@ github_username:  Tarun-S-Sarode
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-#linkedin_username: jekyll
+linkedin_username: jekyll
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
