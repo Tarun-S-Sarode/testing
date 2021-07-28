@@ -48,8 +48,8 @@ about_content: | # this will include new lines to allow paragraphs
 # Certifications Section
 # Certifications_title: Certifications
 
-# Awards Section
-# awards_title: Awards #(Use this to override about education section title)
+# Volunteering Section
+# volunteering_title: Volunteering 
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
