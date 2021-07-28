@@ -4,16 +4,16 @@ repository:  TarunSSarode/testing
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: taun
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-cv   : "resume.pdf"
-website: Your website (eg. https://google.com)(optional)
+name: Tarun.S.Sarode
+title: Data Analyst
+email: tarun.sarode@outlook.com
+# phone: Your phone number (optional)
+# cv   : "resume.pdf"
+# website: Your website (eg. https://google.com)(optional)
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  moya10
+github_username:  TarunSSarode
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
