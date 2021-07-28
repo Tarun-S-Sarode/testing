@@ -24,6 +24,7 @@ linkedin_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
+
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
@@ -35,11 +36,17 @@ about_content: | # this will include new lines to allow paragraphs
     - Links
     - Images
     
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
 
-# Education Section
-# education_title: Education #(Use this to override about education section title)
+# Projects Section
+# projects_title: Projects
+
+# Certifications Section
+# Certifications_title: Certifications
 
 # Awards Section
 # awards_title: Awards #(Use this to override about education section title)
