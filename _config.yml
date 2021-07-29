@@ -20,7 +20,7 @@ github_username:  Tarun-S-Sarode
 #flickr_username: jekyll
 #instagram_username: jekyll
 linkedin_username: jekyll
-email: tarun.sarode@outlook.com
+# email: tarun.sarode@outlook.com 3########################################3
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -64,7 +64,7 @@ footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme:  sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+remote_theme:  sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
