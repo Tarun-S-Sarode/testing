@@ -36,7 +36,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Tables
     - Links
     - Images
-    - ![alt text](/images/IMG_0072.jpg "brother")
+    - ![brother](/images/IMG_0072.jpg "brother") ####################################################3
     
 # Education Section
 # education_title: Education #(Use this to override about education section title)
