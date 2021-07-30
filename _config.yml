@@ -37,7 +37,7 @@ about_content: | # this will include new lines to allow paragraphs
 #    - Tables
 #    - Links
 #    - Images
-#    - ![brother](/images/IMG_0072.jpg "brother") ####################################################3
+    - ![brother](/testing/images/IMG_0072.jpg "brother") ####################################################3
     
 # Education Section
 # education_title: Education #(Use this to override about education section title)
@@ -59,6 +59,8 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  
+  ![brother](/testing/images/IMG-20200109-WA0003%20-%201-53e42072-a2cd-11eb-9940-c27ccc2331ef-98031ad8-a2cd-11eb-9940-c27ccc2331ef.jpg "brother")
   
 # Footer
 footer_show_references: true
