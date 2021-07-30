@@ -1,8 +1,8 @@
 # Education Template
 - layout: left
-  icon: /images/logo.png
-  name: RMIT
-  dates: Date Range (eg. 2018 - 2019)
+  #icon: /images/logo.png
+  name: Royal Melbourne Institue of Technology
+  dates: Feburary 2018 - December 2019
   qualification: Masters of Data Analytics
   link: View Testamur
   # quote: >
@@ -10,8 +10,8 @@
   description: | # this will include new lines to allow paragraphs
    With data-driven decisions now a fundamental part of business operations, this program is structured with courses to be a business-ready problem solver.
    - Data Wrangling
-   _ Data Visualisation
-   > Applied Analytics
+   - Data Visualisation
+   - Applied Analytics
    - Time Series Analysis
    - Machine Learning
    - Forecasting
