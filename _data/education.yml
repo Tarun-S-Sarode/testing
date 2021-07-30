@@ -1,10 +1,20 @@
 # Education Template
 - layout: left
+  icon: /images/logo.png
   name: RMIT
   dates: Date Range (eg. 2018 - 2019)
   qualification: Masters of Data Analytics
-  link: lkjlfsovmoiboiio
+  link: View Testamur
   # quote: >
   #  Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+   With data-driven decisions now a fundamental part of business operations, this program is structured with courses to be a business-ready problem solver.
+   - Data Wrangling
+   _ Data Visualisation
+   > Applied Analytics
+   - Time Series Analysis
+   - Machine Learning
+   - Forecasting
+   - Multivariate Analysis
+   - System Dynamics
+   - QUestioneer and Research Design
