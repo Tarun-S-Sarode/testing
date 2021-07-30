@@ -2,7 +2,7 @@
 - layout: left
   name: RMIT
   dates: Date Range (eg. 2018 - 2019)
-  qualification: Masters of Data Analytics
+  qualification: [Masters of Data Analytics](https://moya10.github.io/awesome-cv/resume.pdf)
   # quote: >
   #  Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
