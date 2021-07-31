@@ -3,22 +3,25 @@
   name: Loan Crediability Prediction System
   link: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+ # quote: >
+ #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
    This Machine Learning project focuses on predicting the crdibility of the customers or subjects for
    loan repayment by analysing different factors which determine the decission on wether to approve or reject the customer request.
    
    
    The model built focuses on techniques such as:
-   - Encoding - Feature Selection and Ranking - Hyper parameter tuning - Modeling (K-NN, Decision Tree, Gaussian Navie-Bayes
+   - Encoding 
+   - Feature Selection and Ranking 
+   - Hyper parameter tuning 
+   - Modeling (K-NN, Decision Tree, Gaussian Navie-Bayes
 
-- layout: left
-  name: Loan Crediability Prediction System
+- layout: left 
+  name: Forecasting Bitcoin 
   link: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+ # quote: >
+ #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
    This Machine Learning project focuses on predicting the crdibility of the customers or subjects for
    loan repayment by analysing different factors which determine the decission on wether to approve or reject the customer request.
