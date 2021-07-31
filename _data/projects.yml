@@ -1,9 +1,28 @@
 # Project template
-- layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- layout: left
+  name: Loan Crediability Prediction System
+  link: View Project
+ # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+   This Machine Learning project focuses on predicting the crdibility of the customers or subjects for
+   loan repayment by analysing different factors which determine the decission on wether to approve or reject the customer request.
+   
+   
+   The model built focuses on techniques such as:
+   - Encoding - Feature Selection and Ranking - Hyper parameter tuning - Modeling (K-NN, Decision Tree, Gaussian Navie-Bayes
+
+- layout: left
+  name: Loan Crediability Prediction System
+  link: View Project
+ # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+   This Machine Learning project focuses on predicting the crdibility of the customers or subjects for
+   loan repayment by analysing different factors which determine the decission on wether to approve or reject the customer request.
+   
+   
+   The model built focuses on techniques such as:
+   - Encoding - Feature Selection and Ranking - Hyper parameter tuning - Modeling (K-NN, Decision Tree, Gaussian Navie-Bayes
