@@ -1,9 +1,9 @@
 # Experience template
 - layout: left
   company:  Research Data Analyst
-  link: Link to company (optional)
   # image: /assets/img/thumb.png # is not working should check how to add company icon
   job_title: Cogstate
+  link: Link to company (optional)
   dates: July 2019 - November 2019
   quote: >
    Cogstate is a cognitive science company which provides computerized cognitive tests for clinical trials, academic research, healthcare and brain injury applications in Australia and Internationally.
