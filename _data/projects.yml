@@ -6,26 +6,37 @@
  # quote: >
  #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-   This Machine Learning project focuses on predicting the crdibility of the customers or subjects for
+   - This Machine Learning project focuses on predicting the crdibility of the customers or subjects for
    loan repayment by analysing different factors which determine the decission on wether to approve or reject the customer request.
    
+   - The modelling is performed using techniques which as:
+       - Encoding 
+       - Feature Selection and Ranking 
+       - Hyper parameter tuning 
+       - Modeling (K-NN, Decision Tree, Gaussian Navie-Bayes)
    
-   The model built focuses on techniques such as:
-   - Encoding 
-   - Feature Selection and Ranking 
-   - Hyper parameter tuning 
-   - Modeling (K-NN, Decision Tree, Gaussian Navie-Bayes
+   - Acheved an average model accuracy of 79% across all the models. 
 
 - layout: left 
-  name: Forecasting Bitcoin 
+  name: Multiariate Analysis 
   link: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-   This Machine Learning project focuses on predicting the crdibility of the customers or subjects for
-   loan repayment by analysing different factors which determine the decission on wether to approve or reject the customer request.
+   - This project is an exploratory analysis of 1. Chemical Components in Marijuana. 
+                                                2. Socio Economic Variables.
+                                                3. Fake and Genuine Bank Notes.
+   - The analysis gives insight into the relation between the variables of the data sets by using multivariate techniques as Principal Component, Factor Analysis and Discriminant Analysis.
+   - The analysis was carried out using SAS
+
+- layout: left 
+  name: Forecasting Bitcoin Prices
+  link: View Project
+ # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+ # quote: >
+ #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+   - 
    
    
-   The model built focuses on techniques such as:
-   - Encoding - Feature Selection and Ranking - Hyper parameter tuning - Modeling (K-NN, Decision Tree, Gaussian Navie-Bayes
