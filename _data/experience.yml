@@ -1,7 +1,7 @@
 # Experience template
 - layout: left
   company:  Research Data Analyst
-  # link: Link to company (optional)
+  link: Link to company (optional)
   # image: /assets/img/thumb.png # is not working should check how to add company icon
   job_title: Cogstate
   dates: July 2019 - November 2019
