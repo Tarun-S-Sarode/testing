@@ -4,8 +4,8 @@
   name: Royal Melbourne Institue of Technology
   dates: Feburary 2018 - December 2019
   qualification: Masters of Data Analytics
-  # link: nil
-  # link_text: View Testamur #############link is not after date it is comming after rmit. %%%%%%
+  link: nil
+  link_text: View Testamur #############link is not after date it is comming after rmit. %%%%%%
   # quote: >
   #  Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
